@@ -1,0 +1,6 @@
+References:
+1. http://theinformationcapital.com/coder-designer/
+('cycle_before_after.jpg', 'london_inspired_before_after.jpg', 'relationship_status_before_after.jpg')
+
+2. http://www.economist.com/blogs/freeexchange/2011/09/growth-and-jobs
+('20110917_WOC618.gif')
