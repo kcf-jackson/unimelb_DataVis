@@ -38,6 +38,7 @@ plot_ly(score_board_data, type = 'heatmap', mode = 'text',
   layout(title = "A scoreboard for republician candidates as of August 17, 2015 <br> Annotated heatmap",
          xaxis = list(title = "", side = 'top'),
          yaxis = list(title = ""), height = 450, 
-         margin = list(r=40, t=140, b=40, l=180),
-         annotations = text_annotation)
+         margin = list(r=40, t=180, b=40, l=180),
+         annotations = text_annotation, 
+         height = 300, width = 800)
 

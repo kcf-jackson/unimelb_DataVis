@@ -21,6 +21,7 @@ layout(title = "MAIN HERE",
               showarrow = F,
               xref = 'paper', yref = 'paper',
               x = 0, y = -0.1)
-       ),
+       ), 
+       height = 450, width = 680, 
        margin = list(b = 70, t = 50, r = 30, l = 70)
 )

@@ -27,7 +27,8 @@ plot_ly(life_expectancy, mode = 'markers',
         hoverinfo = 'text', text = Country) %>%
   layout(title = "",
          xaxis = list(title = "GDP per capita"),
-         yaxis = list(title = "Life Expectancy (years)"))
+         yaxis = list(title = "Life Expectancy (years)"),
+         height = 450, width = 680)
 
 
 #Plotting with ggplot

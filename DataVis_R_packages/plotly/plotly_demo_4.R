@@ -14,7 +14,7 @@ save(unemployment, file = 'input_output//unemployment')
 library(plotly)
 load('input_output//unemployment', verbose = T)
 #create annotation text
-annotation_text <- list(list(x=0.5, y=-0.1, font= list(size = 11), showarrow=FALSE,
+annotation_text <- list(list(x=0.5, y=-0.15, font= list(size = 11), showarrow=FALSE,
                     text="Data: U.S. Bureau of Labor Statistics, Source: <a href='http://qz.com/187731/the-us-government-is-suddenly-set-to-tackle-long-term-unemployment/'> [1]</a>",
                     xanchor='center', xref='paper', yanchor='bottom', yref='paper'))
 annotation_text %<>% add_list_to_end(
@@ -43,6 +43,7 @@ plot_ly(data = dplyr::filter(unemployment, Group_num == 1),
             line = list(color = "rgb(222, 133, 224)")) %>%
   layout(title = "Indexed Unemployment Levels since the Recession began",
          xaxis = list(title = ""), yaxis = list(title = ""), 
-         margin = list(r=40, t=60, b=50, l=60), 
-         annotations = annotation_text)
+         margin = list(r=40, t=50, b=80, l=60), 
+         annotations = annotation_text,
+         height = 450, width = 680)
   

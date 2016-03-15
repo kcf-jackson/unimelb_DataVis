@@ -28,6 +28,7 @@ plot_ly(data = GDP_spending, mode = 'markers+text',
                       line = list(width = 2))
         ) 
 layout(title = "Anticipated personal spending for 2013, USD",
-       xaxis = list(title = "Anticipated spending on Christmas Gift"),
-       yaxis = list(title = "GDP per person"))
+       xaxis = list(title = "GDP per person"),
+       yaxis = list(title = "Anticipated spending on Christmas Gift"),
+       height = 450, width = 680)
 

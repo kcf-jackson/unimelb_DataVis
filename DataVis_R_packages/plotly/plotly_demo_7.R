@@ -75,6 +75,7 @@ layout(title = "Figure 9:UK fiscal rules",
          font = my_titlefont2
        ),
        margins = list(r = 75, t = 50, b = 50, l = 50),
-       annotations = my_annotation_text
+       annotations = my_annotation_text,
+       height = 450, width = 680
 )
          

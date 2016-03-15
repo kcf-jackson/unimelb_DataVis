@@ -41,5 +41,6 @@ plot_ly(income, x = min_yr, y = a1p, fill = "tozeroy",
          xaxis = list(title = "Minimum years in top percentile, between the ages of 25 and 60",
                       range = c(0.5, 10.5)), 
          yaxis = list(title = "Percent", range = c(-5.5, 79)), 
-         margin = list(r=40, t=60, b=50, l=60), 
-         annotations = annotation_text)
+         margin = list(r=40, t=80, b=50, l=60), 
+         annotations = annotation_text,
+         height = 450, width = 680)

@@ -36,5 +36,6 @@ layout(
     showlakes = TRUE, 
     showland = TRUE, 
     subunitcolor = "rgb(255, 255, 255)"
-  )
+  ),
+  height = 450, width = 680
 )
