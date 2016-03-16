@@ -1,7 +1,7 @@
 # source('plotly//plotly_util.R')
 
 # #Data loading and cleaning
-# file_path <- 'plotly//life-expectancy-years-vs-gdp-per-capita-2000-dollars.csv'
+# file_path <- 'data//life-expectancy-years-vs-gdp-per-capita-2000-dollars.csv'
 # life_expectancy <- read.csv(file_path, header = TRUE, stringsAsFactors = FALSE)
 # life_expectancy <- wrap_plotly_data(life_expectancy, 4, 
 #                     c("Life_expectancy", "Country", "Marker_Size", "GDP_per_capita"))

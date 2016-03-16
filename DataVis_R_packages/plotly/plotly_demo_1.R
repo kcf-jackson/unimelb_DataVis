@@ -1,5 +1,5 @@
 # #Data loading and cleaning
-# file_path <- 'plotly/christmas-gifts-anticipated-personal-spending-for-2013-usd.csv'
+# file_path <- 'data//christmas-gifts-anticipated-personal-spending-for-2013-usd.csv'
 # GDP_spending <- read.csv(file_path, header = TRUE, stringsAsFactors = FALSE)
 # 
 # GDP_spending <- t(GDP_spending)
