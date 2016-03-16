@@ -1,12 +1,25 @@
 See preview with the following links:
 
-1. [Scatterplot] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_basic_result.html)
-2. [Bubbles chart] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_2_result.html)
-3. [Annotated Heatmap] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_3_result.html)
-4. [Time series] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_4_result.html)
-5. [Area chart] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_5_result.html)
-6. [Map and Bar charts] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_6_result.html)
-7. [Time series and Bar charts] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_7_result.html)
+(You may need to refresh the page a couple of times for it to show.
+Alternatively, you can download the HTML files and open them with your browser.)
 
-You may need to refresh the page a couple of times for it to show.
-Alternatively, you can download the HTML files and open them with your browser.
+### Scatterplot
+[![](./plotly_basic_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_basic_result.html)
+
+### Bubbles chart
+[![](./plotly_demo_2_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_2_result.html)
+
+### Annotated Heatmap
+[![](./plotly_demo_3_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_3_result.html)
+
+### Time series
+[![](./plotly_demo_4_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_4_result.html)
+
+### Area chart
+[![](./plotly_demo_5_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_5_result.html)
+
+### Map and Bar charts
+[![](./plotly_demo_6_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_6_result.html)
+
+### Time series and Bar charts
+[![](./plotly_demo_7_result.png?raw=true "Optional Title")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_7_result.html)
