@@ -5,7 +5,7 @@ Click the images to see the (interactive) HTML file.
 Alternatively, you can download the HTML files and open them with your browser.)
 
 ### Scatterplot
-[![](./plotly_basic_result.png?raw=true "Scatterplot")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_1_result.html)
+[![](./plotly_demo_1_result.png?raw=true "Scatterplot")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_1_result.html)
 
 ### Bubbles chart
 [![](./plotly_demo_2_result.png?raw=true "Bubbles chart")](https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_2_result.html)
