@@ -7,3 +7,6 @@ See preview with the following links:
 5. [Area chart] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_5_result.html)
 6. [Map and Bar charts] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_6_result.html)
 7. [Time series and Bar charts] (https://htmlpreview.github.io/?https://github.com/kcf-jackson/unimelb_DataVis/blob/master/DataVis_R_packages/plotly/plotly_demo_7_result.html)
+
+You may need to refresh the page a couple of times for it to show.
+Alternatively, you can download the HTML files and open them with your browser.
