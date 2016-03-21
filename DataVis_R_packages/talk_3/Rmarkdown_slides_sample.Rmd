@@ -1,0 +1,48 @@
+---
+title: "Rmarkdown slides sample"
+author: "Jackson Kwok"
+date: "21 March 2016"
+output: ioslides_presentation
+---
+
+## The story
+Your story should go here..."When most I wink, then do mine eyes best see,
+For all the day they view things unrespected;
+But when I sleep, in dreams they look on thee,
+And darkly bright, are bright in dark directed.
+Then thou, whose shadow shadows doth make bright,
+How would thy shadow's form form happy show
+To the clear day with thy much clearer light,
+When to unseeing eyes thy shade shines so!
+How would, I say, mine eyes be blessed made
+By looking on thee in the living day,
+When in dead night thy fair imperfect shade
+Through heavy sleep on sightless eyes doth stay!
+All days are nights to see till I see thee, 
+And nights bright days when dreams do show thee me." - Shakespeare's sonnets.
+
+
+## Plot
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+load('..//input_output//plotly_demo_1')
+library(plotly)
+library(magrittr)
+plot_ly(data = GDP_spending, mode = 'markers+text',  
+        x = GDP_per_person, y = Anticipated_spending, 
+        text = Country, textposition = 'top',
+        marker = list(symbol = "circle-open", 
+                      size = 9, 
+                      line = list(width = 2))
+        ) %>% 
+layout(title = "Anticipated personal spending for 2013, USD",
+       xaxis = list(title = "GDP per person"),
+       yaxis = list(title = "Anticipated spending on Christmas Gift"),
+       height = 450, width = 680)
+```
+
+
+## Rmarkdown (.Rmd) supports Latex
+Let's try some equations here. This is an inline one: $\alpha^2 + \beta^2 = \gamma^2$.
+This is a full one: $$x^2 + \left(\frac{5y}{4} - \sqrt{|x|}\right)^2 = 1.$$
+
+
